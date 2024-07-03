@@ -20,6 +20,7 @@
 		CE9FAB762C34D0B800E4DBB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE9FAB792C34D0B800E4DBB9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE9FAB7B2C34D0B800E4DBB9 /* First_Mac_App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = First_Mac_App.entitlements; sourceTree = "<group>"; };
+		CE9FAB812C34D0D800E4DBB9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 			children = (
 				CE9FAB722C34D0B700E4DBB9 /* First_Mac_AppApp.swift */,
 				CE9FAB742C34D0B700E4DBB9 /* ContentView.swift */,
+				CE9FAB812C34D0D800E4DBB9 /* README.md */,
 				CE9FAB762C34D0B800E4DBB9 /* Assets.xcassets */,
 				CE9FAB7B2C34D0B800E4DBB9 /* First_Mac_App.entitlements */,
 				CE9FAB782C34D0B800E4DBB9 /* Preview Content */,
